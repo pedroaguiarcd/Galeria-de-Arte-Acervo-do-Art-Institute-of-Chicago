@@ -10,6 +10,8 @@ A aplicação permite buscar obras do acervo do [Art Institute of Chicago](https
 ## Integrantes
 
 - **João Pedro Aguiar Teixeira (2025012506)**
+
+
 - **Marcos Vinícius Mendes de Carvalho (2025031790)**
 
 
